@@ -1,0 +1,8 @@
+( defvar rotate 3 )
+( defun blocked-p ( aaa )
+( not ( can-move-p : north ) ) )
+( if ( blocked-p aaa ) ( move 1 ) ( skip ) )
+(
+( if ( blocked-p aaa) ( move 1) ( skip ) )
+( turn : left )
+)
