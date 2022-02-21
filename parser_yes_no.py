@@ -9,8 +9,7 @@ objects=["balloons","chips"]
 directions=["left","front","right","back"]
 tokens= []
 functions= {}
-
-      
+     
 def block():
  if len(tokens) > 0:
     if tokens[0] == "(":
