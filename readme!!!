@@ -1,0 +1,6 @@
+Desarrollado por Jonathan Rivera y Julian Castro. Lenguajes y maquinas seccion Nicolas Cardozo.
+
+Para la ejecucion exitosa del parser es necesario colocar el nombre del archivo de texto de prueba tal y como aparece ("pruebastexto" sin colocar ninguna
+extension)
+
+Es necesario tambien que todos los comandos esten separados por espacio, y que nunca haya un string pegado a un parentesis.
