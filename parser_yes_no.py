@@ -9,7 +9,7 @@ objects=["balloons","chips"]
 directions=["left","front","right","back"]
 tokens= []
 functions= {}
-     
+
 def block():
  if len(tokens) > 0:
     if tokens[0] == "(":
@@ -312,7 +312,7 @@ def ejecutar():
         archivo(nombre_archivo)
         print("Yes")
     except:
-        print("No")
+        print("no")
 
 
     
